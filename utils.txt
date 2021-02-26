@@ -1,1 +1,1 @@
-utility function of my sofware.
+utility function of my sofware version 2
